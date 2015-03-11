@@ -1,4 +1,4 @@
-package school;
+package school.API;
 
 import java.util.List;
 

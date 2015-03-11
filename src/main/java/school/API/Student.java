@@ -1,4 +1,4 @@
-package school;
+package school.API;
 
 /**
  * Created by Alex on 04.03.2015.
@@ -6,6 +6,14 @@ package school;
 public class Student {
     private String firstName;
     private String secondName;
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "firstName='" + firstName + '\'' +
+                ", secondName='" + secondName + '\'' +
+                '}';
+    }
 
     public Student(String firstName, String secondName) {
         this.firstName = firstName;

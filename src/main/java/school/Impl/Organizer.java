@@ -1,12 +1,16 @@
-package school;
+package school.Impl;
 
-import java.util.ArrayList;
+import school.API.MusicSchoolOrganizer;
+import school.API.Performance;
+import school.API.SchoolClass;
+import school.API.Student;
+
 import java.util.List;
 
 /**
  * Created by Alex on 05.03.2015.
  */
-public class Organizer implements MusicSchoolOrganizer{
+public class Organizer implements MusicSchoolOrganizer {
 
 
 

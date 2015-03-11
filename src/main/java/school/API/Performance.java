@@ -1,4 +1,4 @@
-package school;
+package school.API;
 
 /**
  * Created by Alex on 04.03.2015.

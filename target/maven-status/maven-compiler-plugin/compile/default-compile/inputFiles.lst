@@ -1,6 +1,6 @@
-C:\Users\Alex\IdeaProjects\MusicSchool\src\main\java\school\MusicSchoolOrganizer.java
-C:\Users\Alex\IdeaProjects\MusicSchool\src\main\java\school\Organizer.java
-C:\Users\Alex\IdeaProjects\MusicSchool\src\main\java\school\SchoolClass.java
-C:\Users\Alex\IdeaProjects\MusicSchool\src\main\java\school\Performance.java
+C:\Users\Alex\IdeaProjects\MusicSchool\src\main\java\school\API\SchoolClass.java
+C:\Users\Alex\IdeaProjects\MusicSchool\src\main\java\school\API\Student.java
+C:\Users\Alex\IdeaProjects\MusicSchool\src\main\java\school\Impl\Organizer.java
 C:\Users\Alex\IdeaProjects\MusicSchool\src\main\java\school\App.java
-C:\Users\Alex\IdeaProjects\MusicSchool\src\main\java\school\Student.java
+C:\Users\Alex\IdeaProjects\MusicSchool\src\main\java\school\API\Performance.java
+C:\Users\Alex\IdeaProjects\MusicSchool\src\main\java\school\API\MusicSchoolOrganizer.java
